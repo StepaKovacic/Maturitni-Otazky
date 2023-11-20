@@ -1,0 +1,22 @@
+1 Struktura osobního počítače
+2 Operační systém
+3 Uživatelský software
+4 Počítačové sítě
+5 Internet
+6 Web
+7 Algoritmizace
+8 Programovací jazyky
+9 Řídicí struktury
+10 Datové typy
+11 Objektově orientované programování
+12 Osobní zabezpečení
+13 Kryptografie
+14 Softwarové systémy
+15 Kybernetické útoky
+16 Systémy peer-to-peer
+17 Počítačové hry
+18 Robotika
+19 Mobilní aplikace
+20 Umělá inteligence
+21 Rastrová grafika
+22 Vektorová a 3D grafika
